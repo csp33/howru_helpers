@@ -3,7 +3,7 @@ import ujson as json
 
 from log.logger import logger
 
-ROUTES_FILE_PATH = '/etc/chatbot/cfg/routes.json'
+ROUTES_FILE_PATH = '/etc/howru/cfg/routes.json'
 
 
 class MongoHelper(object):
